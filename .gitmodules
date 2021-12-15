@@ -1,0 +1,3 @@
+[submodule "antsim"]
+	path = antsim
+	url = https://github.com/christianhbye/antsim.git
